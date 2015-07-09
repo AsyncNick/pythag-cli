@@ -1,0 +1,26 @@
+{
+  "name": "pythag-cli",
+  "version": "1.1.1",
+  "description": "cli for pythag module",
+  "main": "cli.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalnick/pythag-cli.git"
+  },
+  "keywords": [
+    "pythag",
+    "math",
+    "cli",
+    "command-line-interface",
+    "maths"
+  ],
+  "author": "Nicky Laczko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalnick/pythag-cli/issues"
+  },
+  "homepage": "https://github.com/rivalnick/pythag-cli#readme"
+}
